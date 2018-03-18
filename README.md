@@ -13,7 +13,7 @@ Unofficial BombManual.com Translations
   * BrightSoul
   * brugnara
   * jaramir
-
+  * [DTRandom](http://github.io/DTRandom)
 ### Russian
   * [BTGDelta](http://steamcommunity.com/id/btgdelta/)
   * [ColdFlame](http://steamcommunity.com/id/flamecold/)
